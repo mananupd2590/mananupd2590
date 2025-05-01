@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=747474&background=07030200&width=435&lines=Hello!+My+Name+is+Manan+Upadhyay)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=4%2B+Years+of+Experience+in+;Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
 ## 🏅 Certifications
 
