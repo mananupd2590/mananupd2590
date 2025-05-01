@@ -5,9 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
 ## 🏅 Certifications
 
+## 🏅 Certifications
+
 <p align="left">
-  <img src="https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-orange?style=for-the-badge&logo=iiba&logoColor=white" alt="CBAP Badge" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Analytics%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Data Badge" />
+  <a href="https://badges.iiba.org/5596ea36-7000-4143-a969-3c13e231f589#acc.vVXQ41Cm" target="_blank">
+    <img src="https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-orange?style=for-the-badge&logo=iiba&logoColor=white" alt="CBAP Badge" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/177d2ff2-ef87-485e-9d22-bafeae970368/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Analytics%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+  </a>
 </p>
 
 ### 🧰 Skills & Tools
