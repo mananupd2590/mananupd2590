@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=4%2B+Years+of+Experience+in+;Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-orange?style=for-the-badge&logo=iiba&logoColor=white" alt="CBAP Badge" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Analytics%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Data Badge" />
+</p>
+
 ### 🧰 Skills & Tools
 
 ## 🧠 Key Technologies
