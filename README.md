@@ -2,6 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100000000&color=2B6774&background=07030200&repeat=false&width=435&lines=Business%2FData%2FOperations+Analytics)](https://git.io/typing-svg)
 
+👋 Hi, I'm Manan!
+
+📊 Business Analyst | Data Analyst | Analytics Enthusiast  
+🚀 Turning raw data into insights, dashboards, and smarter decisions
+
+
+---
+
+📌 **About Me**
+
+- 🔎 Analytical thinker passionate about solving business problems with data
+- 🛠️ Proficient in **SQL**, **Python**, **Power BI**, **Excel (Power Pivots, VBA)**, and **Tableau**
+- 📦 Experienced in building **forecasting models** (ARIMA, LSTM, XGBoost) and optimizing dashboards
+- 🌐 Background in **logistics, retail analytics, CRM, and financial reporting**
+- ⚙️ Skilled in **automating reports, building KPI dashboards**, and streamlining processes
+- 📚 Currently exploring **AI-driven financial platforms**, **chatbots**, and **data engineering best practices**
+
+🧠 Always learning. Always building.
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananupd2590/mananupd2590/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mananupd2590/mananupd2590/output/github-contribution-grid-snake.svg">
