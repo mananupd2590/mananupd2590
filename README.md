@@ -11,22 +11,22 @@
 </picture>
 
 
-📊 Business Analyst | Data Analyst | Analytics Enthusiast  
+Business Analyst | Data Analyst | Analytics Enthusiast  
 
 ---
 
-📌 **About Me**
+**About Me**
 
-- 🔎 Analytical thinker passionate about solving business problems with data
-- 🛠️ Proficient in **SQL**, **Python**, **Power BI**, **Excel (Power Pivots, VBA)**, and **Tableau**
-- 📦 Experienced in building **forecasting models** (ARIMA, LSTM, XGBoost) and optimizing dashboards
-- 🌐 Background in **logistics, retail analytics, CRM, and financial reporting**
-- ⚙️ Skilled in **automating reports, building KPI dashboards**, and streamlining processes
-- 📚 Currently exploring **AI-driven financial platforms**, **chatbots**, and **data engineering best practices**
+- Analytical thinker passionate about solving business problems with data
+- Proficient in **SQL**, **Python**, **Power BI**, **Excel (Power Pivots, VBA)**, and **Tableau**
+- Experienced in building **forecasting models** (ARIMA, LSTM, XGBoost) and optimizing dashboards
+- Background in **logistics, retail analytics, CRM, and financial reporting**
+- Skilled in **automating reports, building KPI dashboards**, and streamlining processes
+- Currently exploring **AI-driven financial platforms**, **chatbots**, and **data engineering best practices**
 
-🧠 Always learning. Always building.
+Always learning. Always building.
 
-## 🏅 Certifications
+## Certifications
 
 <p align="left">
   <a href="https://badges.iiba.org/5596ea36-7000-4143-a969-3c13e231f589#acc.vVXQ41Cm" target="_blank">
@@ -38,27 +38,27 @@
   </a>
 </p>
 
-### 🧰 Skills & Tools
+### Skills & Tools
 
-## 🧠 Key Technologies
+## Key Technologies
 
-### 👨‍💻 Programming & Scripting
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel-VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-### ☁️ Cloud & Dev Tools
+### Cloud & Dev Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🛠️ Tools & Methodologies
+### Tools & Methodologies
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white)
